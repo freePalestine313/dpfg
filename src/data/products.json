@@ -1,0 +1,4369 @@
+[
+  {
+    "name": "Dove",
+    "categories": [
+      "GROCERIES"
+    ],
+    "synonyms": [
+      "Dove"
+    ],
+    "contributor": "Ahmed",
+    "source": [
+      "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-statement-continued-support-israel",
+      "https://www.chicagojewishnews.com/unveiling-dove-a-closer-look-at-its-relationship-with-israel/"
+    ],
+    "reason": "small para",
+    "parentCompany": "Unilever",
+    "alternatives": [
+      "Dettol"
+    ],
+    "countries": [
+      "India"
+    ]
+  },
+  {
+    "name": "5 Star Chocolate",
+    "categories": [
+      "FOOD"
+    ],
+    "synonyms": [
+      "5 Star Chocolate"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "7Days",
+    "categories": [
+      "FOOD"
+    ],
+    "synonyms": [
+      "7Days"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "7Up",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "7Up"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "AirBnB",
+    "categories": [
+      "SERVICES"
+    ],
+    "synonyms": [
+      "AirBnB"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Arsenal FC",
+    "categories": [
+      "SPORTS"
+    ],
+    "synonyms": [
+      "Arsenal FC"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Arket",
+    "categories": [
+      "CLOTHING"
+    ],
+    "synonyms": [
+      "Arket"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Accenture",
+    "categories": [
+      "SERVICES"
+    ],
+    "synonyms": [
+      "Accenture"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "ActionIQ",
+    "categories": [
+      "TECHNOLOGY"
+    ],
+    "synonyms": [
+      "ActionIQ"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Aquafina",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Aquafina"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PepsiCo",
+    "alternatives": ["Dasani"],
+    "countries": []
+  },
+  {
+    "name": "Activia",
+    "categories": [
+      "GROCERIES"
+    ],
+    "synonyms": [
+      "Activia"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Danone",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Adobe",
+    "categories": [
+      "TECHNOLOGY"
+    ],
+    "synonyms": [
+      "Adobe"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Aesop",
+    "categories": [
+      "BEAUTY"
+    ],
+    "synonyms": [
+      "Aesop"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "American Eagle",
+    "categories": [
+      "CLOTHING"
+    ],
+    "synonyms": [
+      "American Eagle"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Amway Corp",
+    "categories": [
+      "BEAUTY"
+    ],
+    "synonyms": [
+      "Amway Corp"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Alticor",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Amazon",
+    "categories": [
+      "RETAIL"
+    ],
+    "synonyms": [
+      "Amazon"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Ahava",
+    "categories": [
+      "BEAUTY"
+    ],
+    "synonyms": [
+      "Ahava"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Axel Springer",
+    "categories": [
+      "MEDIA"
+    ],
+    "synonyms": [
+      "Axel Springer"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Axa",
+    "categories": [
+      "FINANCE"
+    ],
+    "synonyms": [
+      "Axa"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "AdeS",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "AdeS"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Coca-Cola",
+    "alternatives": ["Aquarius"],
+    "countries": []
+  },
+  {
+    "name": "Aquarius",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Aquarius"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Ayataka",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Ayataka"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Coca-Cola",
+    "alternatives": ["Tea Leaf"],
+    "countries": []
+  },
+  {
+    "name": "Barqs",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Barqs"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Coca-Cola",
+    "alternatives": ["Root Beer"],
+    "countries": []
+  },
+  {
+    "name": "Bain & Company",
+    "categories": [
+      "CONSULTING"
+    ],
+    "synonyms": [
+      "Bain & Company"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Bayer",
+    "categories": [
+      "PHARMACEUTICALS"
+    ],
+    "synonyms": [
+      "Bayer"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "BCG (Boston Consulting Group)",
+    "categories": [
+      "CONSULTING"
+    ],
+    "synonyms": [
+      "BCG",
+      "Boston Consulting Group"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Biotherm",
+    "categories": [
+      "BEAUTY"
+    ],
+    "synonyms": [
+      "Biotherm"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "L'Oréal",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Bershka",
+    "categories": [
+      "CLOTHING"
+    ],
+    "synonyms": [
+      "Bershka"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Inditex",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Bloomberg",
+    "categories": [
+      "MEDIA"
+    ],
+    "synonyms": [
+      "Bloomberg"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "BMW",
+    "categories": [
+      "VEHICLES"
+    ],
+    "synonyms": [
+      "BMW"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Boeing",
+    "categories": [
+      "AEROSPACE"
+    ],
+    "synonyms": [
+      "Boeing"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Booz Allen Hamilton",
+    "categories": [
+      "CONSULTING"
+    ],
+    "synonyms": [
+      "Booz Allen Hamilton"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Bath & Body Works",
+    "categories": [
+      "BEAUTY"
+    ],
+    "synonyms": [
+      "Bath & Body Works"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "L Brands",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Bosch",
+    "categories": [
+      "TECHNOLOGY"
+    ],
+    "synonyms": [
+      "Bosch"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Bristol Myers Squibb",
+    "categories": [
+      "PHARMACEUTICALS"
+    ],
+    "synonyms": [
+      "Bristol Myers Squibb"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Capri Holdings",
+    "categories": [
+      "FASHION"
+    ],
+    "synonyms": [
+      "Capri Holdings"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Costa",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Costa"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Coca-Cola Company",
+    "alternatives": ["Starbucks"],
+    "countries": []
+  },
+  {
+    "name": "Carita Paris",
+    "categories": [
+      "BEAUTY"
+    ],
+    "synonyms": [
+      "Carita Paris"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Shiseido",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "CareTrust REIT",
+    "categories": [
+      "REAL ESTATE"
+    ],
+    "synonyms": [
+      "CareTrust REIT"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Caterpillar",
+    "categories": [
+      "INDUSTRIAL"
+    ],
+    "synonyms": [
+      "Caterpillar"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Coach",
+    "categories": [
+      "FASHION"
+    ],
+    "synonyms": [
+      "Coach"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Tapestry, Inc.",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Cappy",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Cappy"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Coca-Cola Company",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Caudalie",
+    "categories": [
+      "BEAUTY"
+    ],
+    "synonyms": [
+      "Caudalie"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "CeraVe",
+    "categories": [
+      "BEAUTY"
+    ],
+    "synonyms": [
+      "CeraVe"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "L'Oréal",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Cerelac",
+    "categories": [
+      "GROCERIES"
+    ],
+    "synonyms": [
+      "Cerelac"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Nestlé",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Chanel",
+    "categories": [
+      "FASHION"
+    ],
+    "synonyms": [
+      "Chanel"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Chapman and Cutler",
+    "categories": [
+      "LAW"
+    ],
+    "synonyms": [
+      "Chapman and Cutler"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Channel",
+    "categories": [
+      "ELECTRONICS"
+    ],
+    "synonyms": [
+      "Channel"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Cheerios",
+    "categories": [
+      "GROCERIES"
+    ],
+    "synonyms": [
+      "Cheerios"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "General Mills",
+    "alternatives": ["Frosted Flakes"],
+    "countries": []
+  },
+  {
+    "name": "Cheetos",
+    "categories": [
+      "SNACKS"
+    ],
+    "synonyms": [
+      "Cheetos"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Frito-Lay",
+    "alternatives": ["Doritos"],
+    "countries": []
+  },
+  {
+    "name": "Chevron",
+    "categories": [
+      "ENERGY"
+    ],
+    "synonyms": [
+      "Chevron"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Chips Ahoy!",
+    "categories": [
+      "SNACKS"
+    ],
+    "synonyms": [
+      "Chips Ahoy!"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelez International",
+    "alternatives": ["Oreo"],
+    "countries": []
+  },
+  {
+    "name": "Christina Aguilera",
+    "categories": [
+      "ENTERTAINMENT"
+    ],
+    "synonyms": [
+      "Christina Aguilera"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Citi Bank",
+    "categories": [
+      "FINANCE"
+    ],
+    "synonyms": [
+      "Citi Bank"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Citigroup",
+    "alternatives": ["JPMorgan Chase"],
+    "countries": []
+  },
+  {
+    "name": "Codral",
+    "categories": [
+      "PHARMACEUTICALS"
+    ],
+    "synonyms": [
+      "Codral"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "GlaxoSmithKline",
+    "alternatives": ["NyQuil"],
+    "countries": []
+  },
+  {
+    "name": "Canada Dry",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Canada Dry"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Keurig Dr Pepper",
+    "alternatives": ["Schweppes"],
+    "countries": []
+  },
+  {
+    "name": "Citi",
+    "categories": [
+      "FINANCE"
+    ],
+    "synonyms": [
+      "Citi"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Citigroup",
+    "alternatives": ["JPMorgan Chase"],
+    "countries": []
+  },
+  {
+    "name": "Clean & Clear",
+    "categories": [
+      "BEAUTY"
+    ],
+    "synonyms": [
+      "Clean & Clear"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Johnson & Johnson",
+    "alternatives": ["Neutrogena"],
+    "countries": []
+  },
+  {
+    "name": "Clearblue",
+    "categories": [
+      "HEALTH"
+    ],
+    "synonyms": [
+      "Clearblue"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Procter & Gamble",
+    "alternatives": ["First Response"],
+    "countries": []
+  },
+  {
+    "name": "Clinique",
+    "categories": [
+      "BEAUTY"
+    ],
+    "synonyms": [
+      "Clinique"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Estée Lauder Companies",
+    "alternatives": ["Estée Lauder"],
+    "countries": []
+  },
+  {
+    "name": "Club Social",
+    "categories": [
+      "SNACKS"
+    ],
+    "synonyms": [
+      "Club Social"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelez International",
+    "alternatives": ["Ritz"],
+    "countries": []
+  },
+  {
+    "name": "Coca Cola",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Coca Cola",
+      "Coke"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Coca-Cola Company",
+    "alternatives": ["Pepsi"],
+    "countries": []
+  },
+  {
+    "name": "Coffee Mate",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Coffee Mate"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Nestlé",
+    "alternatives": ["International Delight"],
+    "countries": []
+  },
+  {
+    "name": "Colgate",
+    "categories": [
+      "PERSONAL CARE"
+    ],
+    "synonyms": [
+      "Colgate"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Colgate-Palmolive",
+    "alternatives": ["Crest"],
+    "countries": []
+  },
+  {
+    "name": "Comcast",
+    "categories": [
+      "MEDIA"
+    ],
+    "synonyms": [
+      "Comcast"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Compass",
+    "categories": [
+      "REAL ESTATE"
+    ],
+    "synonyms": [
+      "Compass"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Caesars",
+    "categories": [
+      "HOSPITALITY"
+    ],
+    "synonyms": [
+      "Caesars"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Vici Properties",
+    "alternatives": ["MGM Resorts"],
+    "countries": []
+  },
+  {
+    "name": "Conde Nast",
+    "categories": [
+      "MEDIA"
+    ],
+    "synonyms": [
+      "Conde Nast"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Advance Publications",
+    "alternatives": ["Hearst"],
+    "countries": []
+  },
+  {
+    "name": "Cooley LLP",
+    "categories": [
+      "LAW"
+    ],
+    "synonyms": [
+      "Cooley LLP"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Costco",
+    "categories": [
+      "RETAIL"
+    ],
+    "synonyms": [
+      "Costco"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Walmart"],
+    "countries": ["United States", "Canada", "United Kingdom", "Mexico", "Japan", "Australia"]
+  },
+  {
+    "name": "Côte d’Or",
+    "categories": [
+      "GROCERIES"
+    ],
+    "synonyms": [
+      "Côte d’Or"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelez International",
+    "alternatives": ["Cadbury"],
+    "countries": ["Belgium"]
+  },
+  {
+    "name": "Crest",
+    "categories": [
+      "PERSONAL CARE"
+    ],
+    "synonyms": [
+      "Crest"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Procter & Gamble",
+    "alternatives": ["Colgate"],
+    "countries": ["United States", "Canada"]
+  },
+  {
+    "name": "CV Starr",
+    "categories": [
+      "INSURANCE"
+    ],
+    "synonyms": [
+      "CV Starr"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Starr Companies",
+    "alternatives": ["AIG"],
+    "countries": ["United States", "China", "India", "United Kingdom"]
+  },
+  {
+    "name": "CyberArk Software",
+    "categories": [
+      "TECHNOLOGY"
+    ],
+    "synonyms": [
+      "CyberArk Software"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States", "Israel", "United Kingdom", "France"]
+  },
+  {
+    "name": "Cytokinetics",
+    "categories": [
+      "BIOTECHNOLOGY"
+    ],
+    "synonyms": [
+      "Cytokinetics"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Crayola",
+    "categories": [
+      "ART"
+    ],
+    "synonyms": [
+      "Crayola"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Hallmark Cards",
+    "alternatives": ["Faber-Castell"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Cra Z Art",
+    "categories": [
+      "ART"
+    ],
+    "synonyms": [
+      "Cra Z Art"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Crayola"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Daimler",
+    "categories": [
+      "VEHICLES"
+    ],
+    "synonyms": [
+      "Daimler"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["BMW", "Audi", "Mercedes-Benz"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "Dr Pepper",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Dr Pepper"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Keurig Dr Pepper",
+    "alternatives": ["Coca-Cola", "Pepsi"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Del Valle",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Del Valle"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Coca-Cola",
+    "alternatives": ["Minute Maid"],
+    "countries": ["Mexico"]
+  },
+  {
+    "name": "Daim",
+    "categories": [
+      "GROCERIES"
+    ],
+    "synonyms": [
+      "Daim"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelēz International",
+    "alternatives": ["Toffee Crisp"],
+    "countries": ["Sweden"]
+  },
+  {
+    "name": "Doctor Pepper",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Doctor Pepper"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Keurig Dr Pepper",
+    "alternatives": ["Coca-Cola", "Pepsi"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Dasani",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Dasani"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Coca-Cola Company",
+    "alternatives": ["Aquafina"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Doritos",
+    "categories": [
+      "SNACKS"
+    ],
+    "synonyms": [
+      "Doritos"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Frito-Lay",
+    "alternatives": ["Cheetos"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Daz",
+    "categories": [
+      "HOUSEHOLD"
+    ],
+    "synonyms": [
+      "Daz"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Procter & Gamble",
+    "alternatives": ["Tide"],
+    "countries": ["United Kingdom"]
+  },
+  {
+    "name": "Dior",
+    "categories": [
+      "FASHION"
+    ],
+    "synonyms": [
+      "Dior"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "LVMH",
+    "alternatives": ["Chanel", "Givenchy"],
+    "countries": ["France"]
+  },
+  {
+    "name": "Dell",
+    "categories": [
+      "TECHNOLOGY"
+    ],
+    "synonyms": [
+      "Dell"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["HP", "Lenovo"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Deloitte",
+    "categories": [
+      "CONSULTING"
+    ],
+    "synonyms": [
+      "Deloitte"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["PwC", "EY"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Delta Air Lines",
+    "categories": [
+      "AVIATION"
+    ],
+    "synonyms": [
+      "Delta Air Lines"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["American Airlines", "United Airlines"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Deutsche Bank",
+    "categories": [
+      "FINANCE"
+    ],
+    "synonyms": [
+      "Deutsche Bank"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["JPMorgan Chase", "Goldman Sachs"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "Deutsche Telekom",
+    "categories": [
+      "TELECOMMUNICATIONS"
+    ],
+    "synonyms": [
+      "Deutsche Telekom"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["AT&T", "Vodafone"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "DHL Group",
+    "categories": [
+      "LOGISTICS"
+    ],
+    "synonyms": [
+      "DHL Group"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Deutsche Post",
+    "alternatives": ["FedEx", "UPS"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "Disney",
+    "categories": [
+      "ENTERTAINMENT"
+    ],
+    "synonyms": [
+      "Disney"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Warner Bros.", "Universal Studios"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "DLA Piper",
+    "categories": [
+      "LAW"
+    ],
+    "synonyms": [
+      "DLA Piper"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Clifford Chance", "Linklaters"],
+    "countries": ["United States", "United Kingdom"]
+  },
+  {
+    "name": "Domestos",
+    "categories": [
+      "HOUSEHOLD"
+    ],
+    "synonyms": [
+      "Domestos"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Unilever",
+    "alternatives": ["Lysol"],
+    "countries": ["United Kingdom"]
+  },
+  {
+    "name": "Domino’s",
+    "categories": [
+      "FOOD"
+    ],
+    "synonyms": [
+      "Domino’s"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Pizza Hut", "Papa John’s"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Douglas Elliman",
+    "categories": [
+      "REAL ESTATE"
+    ],
+    "synonyms": [
+      "Douglas Elliman"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Corcoran", "Compass"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Downy",
+    "categories": [
+      "HOUSEHOLD"
+    ],
+    "synonyms": [
+      "Downy"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Procter & Gamble",
+    "alternatives": ["Snuggle"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Duane Morris LLP",
+    "categories": [
+      "LAW"
+    ],
+    "synonyms": [
+      "Duane Morris LLP"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Cooley LLP", "DLA Piper"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Dreft Baby Detergent & Laundry Products",
+    "categories": [
+      "HOUSEHOLD"
+    ],
+    "synonyms": [
+      "Dreft"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Procter & Gamble",
+    "alternatives": ["All Free Clear", "Seventh Generation"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Dreyer’s Grand Ice Cream",
+    "categories": [
+      "FOOD"
+    ],
+    "synonyms": [
+      "Dreyer’s"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Nestlé",
+    "alternatives": ["Häagen-Dazs", "Ben & Jerry's"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "eBay",
+    "categories": [
+      "TECHNOLOGY"
+    ],
+    "synonyms": [
+      "eBay"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Amazon", "Etsy"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Edelman",
+    "categories": [
+      "PR & COMMUNICATIONS"
+    ],
+    "synonyms": [
+      "Edelman"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Burson Cohn & Wolfe", "Weber Shandwick"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Eli Lilly",
+    "categories": [
+      "PHARMACEUTICALS"
+    ],
+    "synonyms": [
+      "Eli Lilly"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Pfizer", "Merck"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Evian",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Evian"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Danone",
+    "alternatives": ["Perrier", "Fiji Water"],
+    "countries": ["France"]
+  },
+  {
+    "name": "Empyrean",
+    "categories": [
+      "FINANCE"
+    ],
+    "synonyms": [
+      "Empyrean"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Endeavor",
+    "categories": [
+      "ENTERTAINMENT"
+    ],
+    "synonyms": [
+      "Endeavor"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Creative Artists Agency", "William Morris Endeavor"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "EPAM Systems",
+    "categories": [
+      "TECHNOLOGY"
+    ],
+    "synonyms": [
+      "EPAM Systems"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States", "Belarus"]
+  },
+  {
+    "name": "Estee Lauder",
+    "categories": [
+      "BEAUTY"
+    ],
+    "synonyms": [
+      "Estee Lauder"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Estée Lauder Companies",
+    "alternatives": ["L'Oréal", "Clinique"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Elbit Systems",
+    "categories": [
+      "DEFENSE"
+    ],
+    "synonyms": [
+      "Elbit Systems"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["Israel"]
+  },
+  {
+    "name": "Expedia",
+    "categories": [
+      "TRAVEL"
+    ],
+    "synonyms": [
+      "Expedia"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Expedia Group",
+    "alternatives": ["Booking.com", "Tripadvisor"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "EY",
+    "categories": [
+      "CONSULTING"
+    ],
+    "synonyms": [
+      "EY"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["PwC", "Deloitte"],
+    "countries": ["United Kingdom"]
+  },
+  {
+    "name": "Forbes",
+    "categories": [
+      "MEDIA"
+    ],
+    "synonyms": [
+      "Forbes"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Bloomberg", "Fortune"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Fairlife",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Fairlife"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Coca-Cola Company",
+    "alternatives": ["Organic Valley"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Fanta",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Fanta"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Coca-Cola Company",
+    "alternatives": ["Sprite", "Coca-Cola"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Fiverr",
+    "categories": [
+      "TECHNOLOGY"
+    ],
+    "synonyms": [
+      "Fiverr"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Upwork", "Freelancer"],
+    "countries": ["Israel"]
+  },
+  {
+    "name": "Funyuns",
+    "categories": [
+      "SNACKS"
+    ],
+    "synonyms": [
+      "Funyuns"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Frito-Lay",
+    "alternatives": ["Lay's", "Doritos"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Fuze",
+    "categories": [
+      "TECHNOLOGY"
+    ],
+    "synonyms": [
+      "Fuze"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Zoom", "Microsoft Teams"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Fritos",
+    "categories": [
+    "SNACKS"
+    ],
+    "synonyms": [
+    "Fritos"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Frito-Lay",
+    "alternatives": ["Lay's", "Doritos"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Fox Corp",
+    "categories": [
+      "MEDIA"
+    ],
+    "synonyms": [
+      "Fox Corp"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["CBS", "NBC"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Gatorade",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Gatorade"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PepsiCo",
+    "alternatives": ["Powerade"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Gamida Cell",
+    "categories": [
+      "BIOTECHNOLOGY"
+    ],
+    "synonyms": [
+      "Gamida Cell"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States", "Israel"]
+  },
+  {
+    "name": "GE",
+    "categories": [
+      "INDUSTRIAL"
+    ],
+    "synonyms": [
+      "GE"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Siemens", "Honeywell"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Glamglow",
+    "categories": [
+      "BEAUTY"
+    ],
+    "synonyms": [
+      "Glamglow"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Estée Lauder Companies",
+    "alternatives": ["Origins", "Clinique"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "General Catalyst",
+    "categories": [
+      "VENTURE CAPITAL"
+    ],
+    "synonyms": [
+      "General Catalyst"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Sequoia Capital", "Andreessen Horowitz"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "General Motors",
+    "categories": [
+      "AUTOMOTIVE"
+    ],
+    "synonyms": [
+      "General Motors"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Ford", "Toyota"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Georgia",
+    "categories": [
+      "BEVERAGES"
+    ],
+    "synonyms": [
+      "Georgia"
+    ],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Coca-Cola Company",
+    "alternatives": ["Starbucks"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Gold Peak",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Gold Peak"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Genesys",
+    "categories": ["TECHNOLOGY"],
+    "synonyms": ["Genesys"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Goldman Sachs",
+    "categories": ["FINANCE"],
+    "synonyms": ["Goldman Sachs"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Grandma’s Cookies",
+    "categories": ["SNACKS"],
+    "synonyms": ["Grandma’s Cookies"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Google",
+    "categories": ["TECHNOLOGY"],
+    "synonyms": ["Google"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Garnier",
+    "categories": ["BEAUTY"],
+    "synonyms": ["Garnier"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Greenberg Traurig",
+    "categories": ["LAW"],
+    "synonyms": ["Greenberg Traurig"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Guerlain",
+    "categories": ["BEAUTY"],
+    "synonyms": ["Guerlain"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Givenchy",
+    "categories": ["FASHION"],
+    "synonyms": ["Givenchy"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "H&M",
+    "categories": ["CLOTHING"],
+    "synonyms": ["H&M"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Huggies",
+    "categories": ["PERSONAL CARE"],
+    "synonyms": ["Huggies"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Hanes",
+    "categories": ["CLOTHING"],
+    "synonyms": ["Hanes"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Head & Shoulders",
+    "categories": ["PERSONAL CARE"],
+    "synonyms": ["Head & Shoulders"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Hersheys",
+    "categories": ["FOOD"],
+    "synonyms": ["Hersheys"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Herbert Smith Freehills",
+    "categories": ["LAW"],
+    "synonyms": ["Herbert Smith Freehills"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Hewlett Packard",
+    "categories": ["TECHNOLOGY"],
+    "synonyms": ["Hewlett Packard"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Hasbro",
+    "categories": ["ENTERTAINMENT"],
+    "synonyms": ["Hasbro"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Hewlett Packard Enterprise",
+    "categories": ["TECHNOLOGY"],
+    "synonyms": ["Hewlett Packard Enterprise"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "HubSpot",
+    "categories": ["SERVICES"],
+    "synonyms": ["HubSpot"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Huntsman Corp",
+    "categories": ["INDUSTRIAL"],
+    "synonyms": ["Huntsman Corp"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "IBM",
+    "categories": ["TECHNOLOGY"],
+    "synonyms": ["IBM"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Innocent",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Innocent"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Insight Partners",
+    "categories": ["VENTURE CAPITAL"],
+    "synonyms": ["Insight Partners"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "Inditex Group",
+    "categories": ["FASHION"],
+    "synonyms": ["Inditex Group"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": []
+  },
+  {
+    "name": "IT Cosmetics",
+    "categories": ["BEAUTY"],
+    "synonyms": ["IT Cosmetics"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "L'Oréal",
+    "alternatives": ["Maybelline", "The Ordinary"],
+    "countries": ["United States", "France"]
+  },
+  {
+    "name": "Instacart",
+    "categories": ["SERVICES"],
+    "synonyms": ["Instacart"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States", "Canada"]
+  },
+  {
+    "name": "Intel",
+    "categories": ["TECHNOLOGY"],
+    "synonyms": ["Intel"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Intermedia",
+    "categories": ["TECHNOLOGY"],
+    "synonyms": ["Intermedia"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Interpublic Group",
+    "categories": ["PR & COMMUNICATIONS"],
+    "synonyms": ["Interpublic Group"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Intuit",
+    "categories": ["TECHNOLOGY"],
+    "synonyms": ["Intuit"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Jazwares",
+    "categories": ["TOYS"],
+    "synonyms": ["Jazwares"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Jefferies",
+    "categories": ["FINANCE"],
+    "synonyms": ["Jefferies"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States"]
+  },
+  {
+    "name": "JP Morgan Chase",
+    "categories": ["FINANCE"],
+    "synonyms": ["JP Morgan Chase", "JPMorgan"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Jaguar",
+    "categories": ["AUTOMOTIVE"],
+    "synonyms": ["Jaguar", "Land Rover"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Tata Motors",
+    "alternatives": ["BMW", "Mercedes-Benz"],
+    "countries": ["United Kingdom", "India"]
+  },
+  {
+    "name": "Johnson & Johnson",
+    "categories": ["PHARMACEUTICALS"],
+    "synonyms": ["Johnson & Johnson"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States"]
+  },
+  {
+    "name": "JPMorgan",
+    "categories": ["FINANCE"],
+    "synonyms": ["JPMorgan", "JP Morgan"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Kenon Holdings",
+    "categories": ["ENERGY"],
+    "synonyms": ["Kenon Holdings"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["Israel"]
+  },
+  {
+    "name": "Kate Spade",
+    "categories": ["FASHION"],
+    "synonyms": ["Kate Spade"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Tapestry",
+    "alternatives": ["Coach", "Stuart Weitzman"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Kinley Water",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Kinley Water"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Coca-Cola",
+    "alternatives": ["Dasani", "SmartWater"],
+    "countries": ["India"]
+  },
+  {
+    "name": "KKR",
+    "categories": ["VENTURE CAPITAL"],
+    "synonyms": ["KKR"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States"]
+  },
+  {
+    "name": "KFC",
+    "categories": ["FOOD"],
+    "synonyms": ["KFC"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Yum! Brands",
+    "alternatives": ["McDonald's", "Burger King"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "KKW Cosmetics",
+    "categories": ["BEAUTY"],
+    "synonyms": ["KKW Cosmetics"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Keebler",
+    "categories": ["SNACKS"],
+    "synonyms": ["Keebler"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Ferrero Group",
+    "alternatives": ["Nabisco", "Ritz"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Kaufland",
+    "categories": ["RETAIL"],
+    "synonyms": ["Kaufland"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Schwarz Gruppe",
+    "alternatives": ["Lidl", "Walmart"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "Kevita",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Kevita"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PepsiCo",
+    "alternatives": ["GT's Living Foods", "Health-Ade Kombucha"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Knorr",
+    "categories": ["FOOD"],
+    "synonyms": ["Knorr"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Unilever",
+    "alternatives": ["Maggi", "Campbell's"],
+    "countries": ["Netherlands", "United Kingdom"]
+  },
+  {
+    "name": "KPMG",
+    "categories": ["CONSULTING"],
+    "synonyms": ["KPMG"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["Netherlands", "United Kingdom"]
+  },
+  {
+    "name": "Lemonade",
+    "categories": ["INSURANCE"],
+    "synonyms": ["Lemonade"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Lidl",
+    "categories": ["RETAIL"],
+    "synonyms": ["Lidl"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Schwarz Gruppe",
+    "alternatives": ["Kaufland", "Walmart"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "Loblaws",
+    "categories": ["RETAIL"],
+    "synonyms": ["Loblaws", "No Frills"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["Canada"]
+  },
+  {
+    "name": "Levi Strauss",
+    "categories": ["CLOTHING"],
+    "synonyms": ["Levi Strauss", "Levi’s"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": [],
+    "countries": ["United States"]
+  },
+  {
+    "name": "LinkedIn",
+    "categories": ["TECHNOLOGY"],
+    "synonyms": ["LinkedIn"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Microsoft",
+    "alternatives": ["Indeed", "Glassdoor"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Land Rover",
+    "categories": ["AUTOMOTIVE"],
+    "synonyms": ["Land Rover"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Tata Motors",
+    "alternatives": ["BMW", "Mercedes-Benz"],
+    "countries": ["United Kingdom", "India"]
+  },
+  {
+    "name": "L’Oréal",
+    "categories": ["BEAUTY"],
+    "synonyms": ["L’Oréal"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Estée Lauder", "Shiseido"],
+    "countries": ["France"]
+  },
+  {
+    "name": "Live Nation Entertainment",
+    "categories": ["ENTERTAINMENT"],
+    "synonyms": ["Live Nation Entertainment"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["AEG Presents", "StubHub"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Lufthansa",
+    "categories": ["AVIATION"],
+    "synonyms": ["Lufthansa"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["British Airways", "Emirates"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "Major League Baseball",
+    "categories": ["SPORTS"],
+    "synonyms": ["Major League Baseball", "MLB"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["National Football League (NFL)", "National Basketball Association (NBA)"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Manpower Group",
+    "categories": ["SERVICES"],
+    "synonyms": ["Manpower Group"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Adecco", "Randstad"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Marriott",
+    "categories": ["HOSPITALITY"],
+    "synonyms": ["Marriott"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Hilton", "InterContinental Hotels Group"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Marsh McLennan",
+    "categories": ["FINANCE"],
+    "synonyms": ["Marsh McLennan"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Aon", "Willis Towers Watson"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Maison Francis Kurkdjian",
+    "categories": ["FASHION"],
+    "synonyms": ["Maison Francis Kurkdjian"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "LVMH",
+    "alternatives": ["Chanel", "Dior"],
+    "countries": ["France"]
+  },
+  {
+    "name": "Mastercard",
+    "categories": ["FINANCE"],
+    "synonyms": ["Mastercard"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Visa", "American Express"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Mattel",
+    "categories": ["TOYS"],
+    "synonyms": ["Mattel"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Hasbro", "LEGO"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Minute Maid",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Minute Maid"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Coca-Cola Company",
+    "alternatives": ["Tropicana", "Simply"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Monster",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Monster"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Red Bull", "Rockstar"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Monki",
+    "categories": ["FASHION"],
+    "synonyms": ["Monki"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "H&M",
+    "alternatives": ["Zara", "Topshop"],
+    "countries": ["Sweden"]
+  },
+  {
+    "name": "Mainz FC",
+    "categories": ["SPORTS"],
+    "synonyms": ["Mainz FC"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Borussia Dortmund", "Bayern Munich"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "Mellow Yellow",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Mellow Yellow"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Coca-Cola Company",
+    "alternatives": ["Mountain Dew", "Sprite"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Mountain Dew",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Mountain Dew"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PepsiCo",
+    "alternatives": ["Coca-Cola", "Dr Pepper"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Marks & Spencer",
+    "categories": ["RETAIL"],
+    "synonyms": ["Marks & Spencer"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Zara", "H&M"],
+    "countries": ["United Kingdom"]
+  },
+  {
+    "name": "McDermott Will & Emery",
+    "categories": ["LAW"],
+    "synonyms": ["McDermott Will & Emery"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Skadden", "Latham & Watkins"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "McDonald’s",
+    "categories": ["FOOD"],
+    "synonyms": ["McDonald’s"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Burger King", "KFC"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Motorola",
+    "categories": ["ELECTRONICS"],
+    "synonyms": ["Motorola"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Samsung", "Apple"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "McKinsey",
+    "categories": ["CONSULTING"],
+    "synonyms": ["McKinsey"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["BCG", "Bain & Company"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Merck",
+    "categories": ["PHARMACEUTICALS"],
+    "synonyms": ["Merck"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Pfizer", "Johnson & Johnson"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Michael Kors",
+    "categories": ["FASHION"],
+    "synonyms": ["Michael Kors"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Capri Holdings",
+    "alternatives": ["Coach", "Burberry"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Merck KGaA",
+    "categories": ["PHARMACEUTICALS"],
+    "synonyms": ["Merck KGaA"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Bayer", "Novartis"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "Maybelline",
+    "categories": ["BEAUTY"],
+    "synonyms": ["Maybelline"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "L'Oréal",
+    "alternatives": ["IT Cosmetics", "Revlon"],
+    "countries": ["United States", "France"]
+  },
+  {
+    "name": "Meta",
+    "categories": ["TECHNOLOGY"],
+    "synonyms": ["Meta"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Facebook, Inc.",
+    "alternatives": ["Google", "Apple"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "MeUndies",
+    "categories": ["CLOTHING"],
+    "synonyms": ["MeUndies"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Tommy John", "Saxx"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Mattle",
+    "categories": ["TOYS"],
+    "synonyms": ["Mattle"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mattel",
+    "alternatives": ["Hasbro", "LEGO"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Microsoft",
+    "categories": ["TECHNOLOGY"],
+    "synonyms": ["Microsoft"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Apple", "Google"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Munchies",
+    "categories": ["SNACKS"],
+    "synonyms": ["Munchies"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Frito-Lay",
+    "alternatives": ["Doritos", "Cheetos"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Miranda",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Miranda"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PepsiCo",
+    "alternatives": ["Sprite", "Fanta"],
+    "countries": ["India"]
+  },
+  {
+    "name": "Morgan Lewis",
+    "categories": ["LAW"],
+    "synonyms": ["Morgan Lewis"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Skadden", "Latham & Watkins"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Moroccanoil",
+    "categories": ["BEAUTY"],
+    "synonyms": ["Moroccanoil"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Redken", "Olaplex"],
+    "countries": ["Israel"]
+  },
+  {
+    "name": "Morgan Stanley",
+    "categories": ["FINANCE"],
+    "synonyms": ["Morgan Stanley"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Goldman Sachs", "JP Morgan Chase"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "MRC",
+    "categories": ["MEDIA"],
+    "synonyms": ["MRC"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Sony Pictures", "Warner Bros."],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Nasdaq",
+    "categories": ["FINANCE"],
+    "synonyms": ["Nasdaq"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["NYSE", "London Stock Exchange"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "NOS",
+    "categories": ["TELECOMMUNICATIONS"],
+    "synonyms": ["NOS"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Altice Portugal",
+    "alternatives": ["Vodafone", "MEO"],
+    "countries": ["Portugal"]
+  },
+  {
+    "name": "Nabisco",
+    "categories": ["SNACKS"],
+    "synonyms": ["Nabisco"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelez International",
+    "alternatives": ["Keebler", "Ritz"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Nutter Butter",
+    "categories": ["SNACKS"],
+    "synonyms": ["Nutter Butter"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelez International",
+    "alternatives": ["Oreo", "Chips Ahoy!"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "No Frills",
+    "categories": ["RETAIL"],
+    "synonyms": ["No Frills"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Loblaws",
+    "alternatives": ["Walmart", "Costco"],
+    "countries": ["Canada"]
+  },
+  {
+    "name": "National Basketball Association",
+    "categories": ["SPORTS"],
+    "synonyms": ["National Basketball Association", "NBA"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["National Football League (NFL)", "Major League Baseball (MLB)"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "National Geographic",
+    "categories": ["MEDIA"],
+    "synonyms": ["National Geographic"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Walt Disney Company",
+    "alternatives": ["Discovery Channel", "BBC Earth"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Nintendo",
+    "categories": ["GAMING"],
+    "synonyms": ["Nintendo"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Sony PlayStation", "Microsoft Xbox"],
+    "countries": ["Japan"]
+  },
+  {
+    "name": "Nutella",
+    "categories": ["FOOD"],
+    "synonyms": ["Nutella"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Ferrero",
+    "alternatives": ["Biscoff Spread", "Peanut Butter"],
+    "countries": ["Italy"]
+  },
+  {
+    "name": "Newtons",
+    "categories": ["SNACKS"],
+    "synonyms": ["Newtons"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelez International",
+    "alternatives": ["Nabisco", "Ritz"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "NVIDIA",
+    "categories": ["TECHNOLOGY"],
+    "synonyms": ["NVIDIA"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["AMD", "Intel"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Netflix",
+    "categories": ["ENTERTAINMENT"],
+    "synonyms": ["Netflix"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Hulu", "Amazon Prime Video"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Nescafe",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Nescafe"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Nestle",
+    "alternatives": ["Folgers", "Maxwell House"],
+    "countries": ["Switzerland"]
+  },
+  {
+    "name": "Nestle",
+    "categories": ["FOOD"],
+    "synonyms": ["Nestle"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Kraft Heinz", "Unilever"],
+    "countries": ["Switzerland"]
+  },
+  {
+    "name": "Nesquick",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Nesquick"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Nestle",
+    "alternatives": ["Hershey's Syrup", "Ovaltine"],
+    "countries": ["Switzerland"]
+  },
+  {
+    "name": "Nike",
+    "categories": ["SPORTS"],
+    "synonyms": ["Nike"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Adidas", "Puma"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Nussbeisser",
+    "categories": ["SNACKS"],
+    "synonyms": ["Nussbeisser"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Lay's", "Pringles"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "Oreo",
+    "categories": ["SNACKS"],
+    "synonyms": ["Oreo"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelez International",
+    "alternatives": ["Chips Ahoy!", "Nutter Butter"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Oral B",
+    "categories": ["PERSONAL CARE"],
+    "synonyms": ["Oral B"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Procter & Gamble",
+    "alternatives": ["Colgate", "Sensodyne"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Oysho",
+    "categories": ["FASHION"],
+    "synonyms": ["Oysho"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Inditex Group",
+    "alternatives": ["H&M", "Zara"],
+    "countries": ["Spain"]
+  },
+  {
+    "name": "Oceanspray",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Oceanspray"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Welch's", "Ocean Spray"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Opodo",
+    "categories": ["TRAVEL"],
+    "synonyms": ["Opodo"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "eDreams ODIGEO",
+    "alternatives": ["Expedia", "Booking.com"],
+    "countries": ["United Kingdom"]
+  },
+  {
+    "name": "P&G (Procter and Gamble)",
+    "categories": ["PERSONAL CARE"],
+    "synonyms": ["P&G", "Procter and Gamble"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Unilever", "Johnson & Johnson"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Pampers",
+    "categories": ["PERSONAL CARE"],
+    "synonyms": ["Pampers"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Procter & Gamble",
+    "alternatives": ["Huggies", "Luvs"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Pull & Bear",
+    "categories": ["FASHION"],
+    "synonyms": ["Pull & Bear"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Inditex Group",
+    "alternatives": ["Zara", "H&M"],
+    "countries": ["Spain"]
+  },
+  {
+    "name": "Pepsi",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Pepsi"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PepsiCo",
+    "alternatives": ["Coca-Cola", "Dr Pepper"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Pfizer",
+    "categories": ["PHARMACEUTICALS"],
+    "synonyms": ["Pfizer"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Johnson & Johnson", "Merck"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Popeyes",
+    "categories": ["FOOD"],
+    "synonyms": ["Popeyes"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Restaurant Brands International",
+    "alternatives": ["KFC", "Chick-fil-A"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Philadelphia Cream Cheese",
+    "categories": ["FOOD"],
+    "synonyms": ["Philadelphia Cream Cheese"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Kraft Heinz",
+    "alternatives": ["Boursin", "Laughing Cow"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Pizza Hut",
+    "categories": ["FOOD"],
+    "synonyms": ["Pizza Hut"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Yum! Brands",
+    "alternatives": ["Domino's", "Papa John's"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Powerade",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Powerade"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Coca-Cola Company",
+    "alternatives": ["Gatorade", "BodyArmor"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Purina",
+    "categories": ["PET CARE"],
+    "synonyms": ["Purina"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Nestle",
+    "alternatives": ["Hill's Science Diet", "Blue Buffalo"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Propel",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Propel"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PepsiCo",
+    "alternatives": ["Gatorade", "BodyArmor"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Ponds",
+    "categories": ["BEAUTY"],
+    "synonyms": ["Ponds"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Unilever",
+    "alternatives": ["Neutrogena", "Olay"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Pure Leaf Green Tea",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Pure Leaf Green Tea"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PepsiCo",
+    "alternatives": ["Lipton", "Tazo"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Power Action Wipes",
+    "categories": ["HOUSEHOLD"],
+    "synonyms": ["Power Action Wipes"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Clorox Wipes", "Lysol Wipes"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "PwC",
+    "categories": ["CONSULTING"],
+    "synonyms": ["PwC", "PricewaterhouseCoopers"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Deloitte", "EY"],
+    "countries": ["United Kingdom"]
+  },
+  {
+    "name": "Prada",
+    "categories": ["FASHION"],
+    "synonyms": ["Prada"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Prada S.p.A.",
+    "alternatives": ["Gucci", "Louis Vuitton"],
+    "countries": ["Italy"]
+  },
+  {
+    "name": "Prada Eyewear",
+    "categories": ["FASHION"],
+    "synonyms": ["Prada Eyewear"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Prada S.p.A.",
+    "alternatives": ["Ray-Ban", "Gucci Eyewear"],
+    "countries": ["Italy"]
+  },
+  {
+    "name": "Pringles",
+    "categories": ["SNACKS"],
+    "synonyms": ["Pringles"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Kellogg's",
+    "alternatives": ["Lay's", "Doritos"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Payoneer",
+    "categories": ["FINTECH"],
+    "synonyms": ["Payoneer"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["PayPal", "Skrill"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Procter & Gamble",
+    "categories": ["CONSUMER GOODS"],
+    "synonyms": ["Procter & Gamble", "P&G"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Unilever", "Johnson & Johnson"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Purelife",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Purelife"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Nestle",
+    "alternatives": ["Aquafina", "Dasani"],
+    "countries": ["Switzerland"]
+  },
+  {
+    "name": "Pureology",
+    "categories": ["BEAUTY"],
+    "synonyms": ["Pureology"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "L'Oréal",
+    "alternatives": ["Redken", "Matrix"],
+    "countries": ["United States", "France"]
+  },
+  {
+    "name": "PUMA",
+    "categories": ["SPORTS"],
+    "synonyms": ["PUMA"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Kering",
+    "alternatives": ["Nike", "Adidas"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "Quaker Oats",
+    "categories": ["FOOD"],
+    "synonyms": ["Quaker Oats"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PepsiCo",
+    "alternatives": ["Kellogg's", "General Mills"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Reddit",
+    "categories": ["MEDIA"],
+    "synonyms": ["Reddit"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Twitter", "Facebook"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Royal Bank of Canada",
+    "categories": ["FINANCE"],
+    "synonyms": ["Royal Bank of Canada", "RBC"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Toronto-Dominion Bank", "Bank of Montreal"],
+    "countries": ["Canada"]
+  },
+  {
+    "name": "Ruffles",
+    "categories": ["SNACKS"],
+    "synonyms": ["Ruffles"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Frito-Lay",
+    "alternatives": ["Lay's", "Doritos"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Revlon",
+    "categories": ["BEAUTY"],
+    "synonyms": ["Revlon"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Maybelline", "L'Oréal"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Ralph Lauren",
+    "categories": ["FASHION"],
+    "synonyms": ["Ralph Lauren"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Tommy Hilfiger", "Calvin Klein"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Reebok",
+    "categories": ["SPORTS"],
+    "synonyms": ["Reebok"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Adidas",
+    "alternatives": ["Nike", "PUMA"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Ritz",
+    "categories": ["SNACKS"],
+    "synonyms": ["Ritz"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelez International",
+    "alternatives": ["Nabisco", "Newtons"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Rolls Royce",
+    "categories": ["AUTOMOTIVE"],
+    "synonyms": ["Rolls Royce"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Rolls-Royce Holdings",
+    "alternatives": ["Bentley", "Mercedes-Benz"],
+    "countries": ["United Kingdom"]
+  },
+  {
+    "name": "Royal",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Royal"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Asahi Group Holdings",
+    "alternatives": ["Coca-Cola", "Pepsi"],
+    "countries": ["Japan"]
+  },
+  {
+    "name": "S.Pellegrino",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["S.Pellegrino"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Nestle",
+    "alternatives": ["San Benedetto", "Acqua Panna"],
+    "countries": ["Italy"]
+  },
+  {
+    "name": "Sabra Hummus",
+    "categories": ["FOOD"],
+    "synonyms": ["Sabra Hummus"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PepsiCo",
+    "alternatives": ["Cedar's", "Tribe"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Sabre",
+    "categories": ["TECHNOLOGY"],
+    "synonyms": ["Sabre"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Amadeus", "Travelport"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "SAP",
+    "categories": ["TECHNOLOGY"],
+    "synonyms": ["SAP"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Oracle", "Microsoft"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "Simply",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Simply"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Coca-Cola Company",
+    "alternatives": ["Tropicana", "Minute Maid"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Smart Water",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Smart Water"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Coca-Cola Company",
+    "alternatives": ["Fiji Water", "Voss"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Sprite",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Sprite"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Coca-Cola Company",
+    "alternatives": ["7UP", "Sierra Mist"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Schwabe",
+    "categories": ["HEALTH"],
+    "synonyms": ["Schwabe"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Dr. Willmar Schwabe Group",
+    "alternatives": ["Boiron", "Weleda"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "Shell",
+    "categories": ["ENERGY"],
+    "synonyms": ["Shell"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Royal Dutch Shell",
+    "alternatives": ["ExxonMobil", "Chevron"],
+    "countries": ["Netherlands", "United Kingdom"]
+  },
+  {
+    "name": "Soda Stream",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Soda Stream"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PepsiCo",
+    "alternatives": ["Bonne O", "Aarke"],
+    "countries": ["Israel"]
+  },
+  {
+    "name": "Siemens",
+    "categories": ["ELECTRONICS"],
+    "synonyms": ["Siemens"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["General Electric", "ABB"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "Schweppes",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Schweppes"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Keurig Dr Pepper",
+    "alternatives": ["Canada Dry", "Sprite"],
+    "countries": ["United Kingdom"]
+  },
+  {
+    "name": "Sunsilk",
+    "categories": ["BEAUTY"],
+    "synonyms": ["Sunsilk"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Unilever",
+    "alternatives": ["Pantene", "Head & Shoulders"],
+    "countries": ["United Kingdom"]
+  },
+  {
+    "name": "Signal",
+    "categories": ["PERSONAL CARE"],
+    "synonyms": ["Signal"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Unilever",
+    "alternatives": ["Colgate", "Crest"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Skittles",
+    "categories": ["SNACKS"],
+    "synonyms": ["Skittles"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mars, Inc.",
+    "alternatives": ["M&M's", "Starburst"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Smart Food",
+    "categories": ["SNACKS"],
+    "synonyms": ["Smart Food"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Frito-Lay",
+    "alternatives": ["PopCorners", "Boomchickapop"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Sobe",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Sobe"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PepsiCo",
+    "alternatives": ["Vitaminwater", "Honest Tea"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Smarties",
+    "categories": ["SNACKS"],
+    "synonyms": ["Smarties"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Smarties Candy Company",
+    "alternatives": ["M&M's", "Skittles"],
+    "countries": ["Canada"]
+  },
+  {
+    "name": "Sephora",
+    "categories": ["BEAUTY"],
+    "synonyms": ["Sephora"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "LVMH",
+    "alternatives": ["Ulta Beauty", "M.A.C"],
+    "countries": ["France"]
+  },
+  {
+    "name": "Sam’s Club",
+    "categories": ["RETAIL"],
+    "synonyms": ["Sam’s Club"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Walmart",
+    "alternatives": ["Costco", "BJ's Wholesale Club"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Superbus",
+    "categories": ["TRANSPORTATION"],
+    "synonyms": ["Superbus"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Greyhound", "Megabus"],
+    "countries": ["Netherlands"]
+  },
+  {
+    "name": "Sodastream",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Sodastream"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PepsiCo",
+    "alternatives": ["Aarke", "Drinkmate"],
+    "countries": ["Israel"]
+  },
+  {
+    "name": "Sunkist",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Sunkist"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Keurig Dr Pepper",
+    "alternatives": ["Fanta", "Crush"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Scotiabank",
+    "categories": ["FINANCE"],
+    "synonyms": ["Scotiabank"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["TD Bank", "RBC"],
+    "countries": ["Canada"]
+  },
+  {
+    "name": "Sour Patch Kids",
+    "categories": ["SNACKS"],
+    "synonyms": ["Sour Patch Kids"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelez International",
+    "alternatives": ["Swedish Fish", "Mike and Ike"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Starbucks",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Starbucks"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Dunkin'", "Peet's Coffee"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Sadaf",
+    "categories": ["FOOD"],
+    "synonyms": ["Sadaf"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Ziyad", "Cortas"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Stride",
+    "categories": ["SNACKS"],
+    "synonyms": ["Stride"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelez International",
+    "alternatives": ["Orbit", "5 Gum"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Subway",
+    "categories": ["FOOD"],
+    "synonyms": ["Subway"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["McDonald's", "Jimmy John's"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Tang",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Tang"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelez International",
+    "alternatives": ["Kool-Aid", "Country Time"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Tate’s Bake Shop",
+    "categories": ["FOOD"],
+    "synonyms": ["Tate’s Bake Shop"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelez International",
+    "alternatives": ["Pepperidge Farm", "Lenny & Larry's"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "The Body Shop",
+    "categories": ["BEAUTY"],
+    "synonyms": ["The Body Shop"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Natura &Co",
+    "alternatives": ["Lush", "Aveda"],
+    "countries": ["United Kingdom"]
+  },
+  {
+    "name": "TEVA",
+    "categories": ["PHARMACEUTICALS"],
+    "synonyms": ["TEVA"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Mylan", "Sandoz"],
+    "countries": ["Israel"]
+  },
+  {
+    "name": "The Ordinary",
+    "categories": ["BEAUTY"],
+    "synonyms": ["The Ordinary"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "DECIEM",
+    "alternatives": ["Paula's Choice", "The Inkey List"],
+    "countries": ["Canada"]
+  },
+  {
+    "name": "Tim Hortons",
+    "categories": ["FOOD"],
+    "synonyms": ["Tim Hortons"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Restaurant Brands International",
+    "alternatives": ["Dunkin'", "Starbucks"],
+    "countries": ["Canada"]
+  },
+  {
+    "name": "Tostitos",
+    "categories": ["SNACKS"],
+    "synonyms": ["Tostitos"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Frito-Lay",
+    "alternatives": ["Doritos", "Takis"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Timberland",
+    "categories": ["FASHION"],
+    "synonyms": ["Timberland"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "VF Corporation",
+    "alternatives": ["The North Face", "Columbia"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Topo Chico",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Topo Chico"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Coca-Cola Company",
+    "alternatives": ["Perrier", "San Pellegrino"],
+    "countries": ["Mexico"]
+  },
+  {
+    "name": "Tapestry",
+    "categories": ["FASHION"],
+    "synonyms": ["Tapestry"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Michael Kors", "Coach"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Tropicana",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Tropicana"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PepsiCo",
+    "alternatives": ["Minute Maid", "Simply"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Tommy Hilfiger",
+    "categories": ["FASHION"],
+    "synonyms": ["Tommy Hilfiger"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PVH Corp",
+    "alternatives": ["Ralph Lauren", "Calvin Klein"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Tommy Hilfiger Toiletries",
+    "categories": ["BEAUTY"],
+    "synonyms": ["Tommy Hilfiger Toiletries"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Estée Lauder Companies",
+    "alternatives": ["Ralph Lauren Fragrances", "Calvin Klein Fragrances"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Turbos",
+    "categories": ["AUTOMOTIVE"],
+    "synonyms": ["Turbos"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Superchargers", "Nitrous Oxide Kits"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "Tom Ford",
+    "categories": ["FASHION"],
+    "synonyms": ["Tom Ford"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Estée Lauder Companies",
+    "alternatives": ["Gucci", "Yves Saint Laurent"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Triscuit",
+    "categories": ["SNACKS"],
+    "synonyms": ["Triscuit"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelez International",
+    "alternatives": ["Wheat Thins", "Ritz"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "TUC",
+    "categories": ["SNACKS"],
+    "synonyms": ["TUC"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelez International",
+    "alternatives": ["Ritz", "Wheat Thins"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Twix",
+    "categories": ["SNACKS"],
+    "synonyms": ["Twix"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mars, Inc.",
+    "alternatives": ["Kit Kat", "Snickers"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Tottenham Hotspurs",
+    "categories": ["SPORTS"],
+    "synonyms": ["Tottenham Hotspurs"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Manchester United", "Chelsea FC"],
+    "countries": ["United Kingdom"]
+  },
+  {
+    "name": "Twisties",
+    "categories": ["SNACKS"],
+    "synonyms": ["Twisties"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mars, Inc.",
+    "alternatives": ["Cheetos", "Doritos"],
+    "countries": ["Australia"]
+  },
+  {
+    "name": "Tripadvisor",
+    "categories": ["TRAVEL"],
+    "synonyms": ["Tripadvisor"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Booking.com", "Expedia"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Uber",
+    "categories": ["TRANSPORTATION"],
+    "synonyms": ["Uber"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Lyft", "Didi Chuxing"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Uber Eats",
+    "categories": ["FOOD"],
+    "synonyms": ["Uber Eats"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Uber",
+    "alternatives": ["DoorDash", "Grubhub"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Urban Decay",
+    "categories": ["BEAUTY"],
+    "synonyms": ["Urban Decay"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "L'Oréal",
+    "alternatives": ["NARS", "Too Faced"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Upfield",
+    "categories": ["FOOD"],
+    "synonyms": ["Upfield"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Unilever", "Kerry Group"],
+    "countries": ["Netherlands"]
+  },
+  {
+    "name": "Vicks",
+    "categories": ["HEALTH"],
+    "synonyms": ["Vicks"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Procter & Gamble",
+    "alternatives": ["Halls", "Ricola"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Victoria’s Secret",
+    "categories": ["FASHION"],
+    "synonyms": ["Victoria’s Secret"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "L Brands",
+    "alternatives": ["Aerie", "La Senza"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "V8",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["V8"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Campbell Soup Company",
+    "alternatives": ["Naked Juice", "Bolthouse Farms"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Vaseline",
+    "categories": ["PERSONAL CARE"],
+    "synonyms": ["Vaseline"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Unilever",
+    "alternatives": ["Aquaphor", "CeraVe"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Vitaminwater",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Vitaminwater"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "The Coca-Cola Company",
+    "alternatives": ["Gatorade", "Propel"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Volkswagen",
+    "categories": ["AUTOMOTIVE"],
+    "synonyms": ["Volkswagen"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Volkswagen Group",
+    "alternatives": ["Toyota", "Ford"],
+    "countries": ["Germany"]
+  },
+  {
+    "name": "Walmart",
+    "categories": ["RETAIL"],
+    "synonyms": ["Walmart"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Amazon", "Target"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Wegmans",
+    "categories": ["RETAIL"],
+    "synonyms": ["Wegmans"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Trader Joe's", "Whole Foods"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "WhatsApp",
+    "categories": ["TELECOMMUNICATIONS"],
+    "synonyms": ["WhatsApp"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Meta",
+    "alternatives": ["Telegram", "Signal"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Woolworths",
+    "categories": ["RETAIL"],
+    "synonyms": ["Woolworths"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Coles", "Aldi"],
+    "countries": ["Australia"]
+  },
+  {
+    "name": "Wheat Thins",
+    "categories": ["SNACKS"],
+    "synonyms": ["Wheat Thins"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mondelez International",
+    "alternatives": ["Triscuit", "Ritz"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Walkers",
+    "categories": ["SNACKS"],
+    "synonyms": ["Walkers"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "PepsiCo",
+    "alternatives": ["Lays", "Pringles"],
+    "countries": ["United Kingdom"]
+  },
+  {
+    "name": "Warner Brothers",
+    "categories": ["ENTERTAINMENT"],
+    "synonyms": ["Warner Brothers"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "WarnerMedia",
+    "alternatives": ["Universal Pictures", "Walt Disney Studios"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Warner Chilcot",
+    "categories": ["PHARMACEUTICALS"],
+    "synonyms": ["Warner Chilcot"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Pfizer",
+    "alternatives": ["Merck", "Novartis"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Warner Music",
+    "categories": ["ENTERTAINMENT"],
+    "synonyms": ["Warner Music"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Sony Music", "Universal Music Group"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Wells Fargo",
+    "categories": ["FINANCE"],
+    "synonyms": ["Wells Fargo"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["JPMorgan Chase", "Bank of America"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Winston & Strawn",
+    "categories": ["LAW"],
+    "synonyms": ["Winston & Strawn"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Skadden", "Sidley Austin"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Wix",
+    "categories": ["TECHNOLOGY"],
+    "synonyms": ["Wix"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["WordPress", "Squarespace"],
+    "countries": ["Israel"]
+  },
+  {
+    "name": "Wissotzky Tea",
+    "categories": ["BEVERAGES"],
+    "synonyms": ["Wissotzky Tea"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Twinings", "Lipton"],
+    "countries": ["Israel"]
+  },
+  {
+    "name": "WWE",
+    "categories": ["SPORTS"],
+    "synonyms": ["WWE"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["AEW", "New Japan Pro-Wrestling"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Wrigley Company",
+    "categories": ["SNACKS"],
+    "synonyms": ["Wrigley Company"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Mars, Inc.",
+    "alternatives": ["Hershey's", "Mondelez International"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "YouTube",
+    "categories": ["MEDIA"],
+    "synonyms": ["YouTube"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Google",
+    "alternatives": ["Vimeo", "Dailymotion"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Yvel",
+    "categories": ["JEWELRY"],
+    "synonyms": ["Yvel"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Tiffany & Co.", "Cartier"],
+    "countries": ["Israel"]
+  },
+  {
+    "name": "Ziyad",
+    "categories": ["FOOD"],
+    "synonyms": ["Ziyad"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Sadaf", "Cortas"],
+    "countries": ["United States"]
+  },
+  {
+    "name": "Zara",
+    "categories": ["FASHION"],
+    "synonyms": ["Zara"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "Inditex Group",
+    "alternatives": ["H&M", "Forever 21"],
+    "countries": ["Spain"]
+  },
+  {
+    "name": "Zim Shipping",
+    "categories": ["LOGISTICS"],
+    "synonyms": ["Zim Shipping"],
+    "contributor": "system",
+    "source": [],
+    "reason": "",
+    "parentCompany": "",
+    "alternatives": ["Maersk", "CMA CGM"],
+    "countries": ["Israel"]
+  }
+]
